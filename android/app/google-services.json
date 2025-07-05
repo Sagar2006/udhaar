@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91042370703",
+    "project_id": "udhaar-45f19",
+    "storage_bucket": "udhaar-45f19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91042370703:android:286b1b217523b1e07d8cfa",
+        "android_client_info": {
+          "package_name": "com.example.udhaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5PhrJp2rWXLcAbEwfDbORgt5GRHAOc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
