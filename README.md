@@ -17,6 +17,7 @@ This project is built with [Flutter](https://flutter.dev/).
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - A device or emulator to run the app
+- Currently developed for only android
 
 ### Installation
 
